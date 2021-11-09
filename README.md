@@ -3,7 +3,7 @@
 - stages of the project
 - 1. Preparation and Processing
 - 2. Design a Model
-- 3. Model Building
+- 3. One Model Building
 - 4. Result Communication and Publication
 - 5. Measuring of Effectiveness
 <!---
